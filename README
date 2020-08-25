@@ -1,0 +1,36 @@
+|/
+|\ISS Repo                                                      https://k1ss.org
+________________________________________________________________________________
+
+
+KISS Compression Repository
+________________________________________________________________________________
+
+A KISS Linux repository for compression utilities.
+
+To use this repo you should have the following repositories in your KISS_PATH:
+ - kisslinux/repo/*    [1]
+ - kisslinux/community [2]
+
+
+Mirrors
+________________________________________________________________________________
+
+This git repository is mirrored to the following locations:
+
+ - https://git.himmalerin.net/kiss-wayland
+ - https://github.com/Himmalerin/kiss-wayland
+ - https://git.sr.ht/~himmalerin/kiss-wayland
+
+
+License
+________________________________________________________________________________
+
+All files in this repository are available under the BSD Zero Clause license.
+
+
+References
+________________________________________________________________________________
+
+[1] https://github.com/kisslinux/repo
+[2]: https://github.com/kisslinux/community
